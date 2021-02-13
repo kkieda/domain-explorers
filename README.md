@@ -8,4 +8,6 @@ Repozytorium założone w ramach uczestnictwa w projekcie [Domain Explorers](htt
 
 ## Analiza domeny
 
+{% include youtube.html id='LqIF_pGI3wk' %}
+
 ### Big Picture EventStorming
