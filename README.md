@@ -14,4 +14,4 @@ Repozytorium założone w ramach uczestnictwa w projekcie [Domain Explorers](htt
 
 ![Big Picture EventStorming](assets/images/big_picture_event_storming.jpg)
 
-Link do pełnej wersji do dostępny [tutaj](https://miro.com/app/board/o9J_lVITV9E=/). 
+Link do pełnej wersji diagramu dostępny [tutaj](https://miro.com/app/board/o9J_lVITV9E=/). 
